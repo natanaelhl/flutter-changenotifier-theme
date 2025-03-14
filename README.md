@@ -9,5 +9,5 @@ A Flutter app demonstrating the use of ChangeNotifier to manage and toggle app t
 
 theme_controller.dart
 <div>  
-  <img src="https://github.com/user-attachments/assets/2937cffe-fb73-44d8-9bc6-7a881bb39c5d" width="500px">  
+  <img src="!https://github.com/user-attachments/assets/88f535a2-1f74-4d10-8074-df39a4e9d8ae" width="500px">  
 </div>  
