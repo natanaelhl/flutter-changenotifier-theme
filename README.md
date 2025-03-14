@@ -8,3 +8,8 @@ A Flutter app demonstrating the use of ChangeNotifier to manage and toggle app t
 ### ⭐ How to use notifyListeners to notify all listeners of a class that implements ChangeNotifier
 
 
+![Image](https://github.com/user-attachments/assets/2937cffe-fb73-44d8-9bc6-7a881bb39c5d)
+
+<div>  
+  <img src="https://github.com/user-attachments/assets/2937cffe-fb73-44d8-9bc6-7a881bb39c5d" width="500px">  
+</div>  
