@@ -14,9 +14,9 @@ A Flutter app demonstrating the use of ChangeNotifier to manage and toggle app t
 
 ### main.dart
 <div>  
-  <img src="https://github.com/user-attachments/assets/68cfb19b-cca6-452f-88f2-3352e8a97ded">  
+  <img src="https://github.com/user-attachments/assets/68cfb19b-cca6-452f-88f2-3352e8a97ded" width="500px">  
 </div>
 
 <div>  
-  <img src="https://github.com/user-attachments/assets/117b8acc-a6f1-40cf-a1c2-07d6c0188cc8">  
+  <img src="https://github.com/user-attachments/assets/117b8acc-a6f1-40cf-a1c2-07d6c0188cc8" width="500px">  
 </div>
